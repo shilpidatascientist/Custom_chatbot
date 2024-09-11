@@ -1,0 +1,22 @@
+﻿# Open AI
+openai
+faiss-cpu
+streamlit
+langchain
+groq
+langchain-groq
+langchain_community
+langchain-openai
+python-dotenv
+pypdf
+PyPDF2
+llama-index
+langchain_groq
+gpt4all
+unstructured
+flask
+ipykernel
+libmagic
+python-magic
+python_magic_bin
+unstructured[docx]
